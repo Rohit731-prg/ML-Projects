@@ -1,0 +1,156 @@
+CustomerID,Age,Annual_Income,Spending_Score,Gender,City,Education
+82,48,,52,Female,New York,Bachelor
+143,31,34543.5,24,Male,Los Angeles,High School
+32,44,58081.02,55,Male,Los Angeles,Master
+30,42,33954.45,92,Male,Houston,High School
+119,59,54281.87,95,Female,Phoenix,Master
+61,25,31611.52,29,Male,Phoenix,Master
+94,41,87935.86,250,Female,Phoenix,Master
+148,31,12654.7,36,Male,Los Angeles,High School
+79,27,36399.51,10,Male,New York,Master
+69,21,17850.34,76,Male,Los Angeles,Bachelor
+43,68,49305.76,96,Male,New York,High School
+139,-5,69080.04,21,Male,Phoenix,Bachelor
+79,27,36399.51,10,Male,New York,Master
+76,43,,33,Female,Los Angeles,PhD
+16,,60265.35,96,Male,Los Angeles,master
+20,41,43446.76,55,Male,Phoenix,PhD
+31,66,46774.29,58,Female,Houston,Bachelor
+91,62,69267.52,16,Male,Los Angeles,Bachelor
+118,22,67127.98,12,Female,Phoenix,High School
+138,52,72711.31,89,Male,Phoenix,Bachelor
+19,19,35958.94,99,Female,New York,PhD
+13,41,-10000,5,Male,Chicago,Master
+10,40,39634.6,8,Male,Phoenix,High school
+25,38,50102.27,30,Male,Los Angeles,Master
+70,19,53692.68,16,Male,New York,PhD
+132,54,31243.5,7,Female,New York,High School
+96,999,34925.28,32,Female,New York,Master
+46,26,65038.66,1,Male ,Houston,Masters
+87,40,30506.37,96,Female,Phoenix,PhD
+85,25,26173.93,19,Female,Chicago,Master
+127,51,57155.75,93,Female,Los Angeles,PhD
+97,62,32209.71,91,Female,Chicago,Master
+123,24,32322.85,87,Male,Houston,PhD
+83,65,87315.49,95,Male,Phoenix,Bachelor
+110,41,59649.45,65,Female,Los Angeles,PhD
+66,53,25382.71,94,Male,NEW YORK,PhD
+52,67,5000000,22,Male,Phoenix,Bachelor
+27,29,21692.59,,Female,Houston,phd
+134,,60275.72,80pts,Male,Houston,Bachelor
+77,61,55009.86,94,Female,New York,Master
+57,45,18986.73,16,Male,Los Angeles,High School
+37,64,11624.58,9,Female,LosAngles,PhD
+125,25,51164.17,90,Male,Los Angeles,High School
+23,55,55922.41,16,Male,Chicago,Master
+56,37,39930.49,26,Male,New York,Bachelor
+86,31,63131.07,58,Male,Phoenix,high school
+12,28,39964.86,60,Male,Chicago,PhD
+142,64,65179.38,73,Male,New York,PhD
+67,67,54549.2,62,Male,Chicago,Bachelors
+120,56,25085.22,,Male,Los Angeles,Bachelor
+28,39,41587.09,-50,Male,Phoenix,PhD
+80,53,54645.07,69,Female,Phoenix,PhD
+145,18,1,99,F,Houston,Master
+42,54,,34,Female,New York,Bachelor
+5,60,51835.22,70,Male,Los Angeles ,PhD
+33,59,87723.72,90,Male,Los Angeles,Master
+135,57,60300.95,75,Male,Los Angeles,Master
+144,150,45263.63,64,Female,New York,PhD
+68,57,76142.86,69,Male,Phoenix,High School
+17,20,51941.55,94,Female,New York,PhD
+124,26,53074.5,81,Male,Los Angeles,High School
+11,28,33830.13,53,Male,Houston,Ph.D
+114,25,48543.42,,Female,Phoenix,PhD
+147,43,96293.17,99,Female,Phoenix,High School
+102,18,66543.66,35,Male,Pheonix,PhD
+1,56,-2394.9,86,male,Los Angeles,High School
+111,28,45530.74,33,Male,Houston,High School
+65,34,66270.34,47,Male,Los Angeles,Master
+45,38,72856.46,89,Male,Phoenix,High School
+98,58,,84,Male,Phoenix,Master
+29,61,43145.71,19,Male,Los Angeles,Bachelor
+41,20,46152.78,1,Male,phoenix,High School
+105,26,44706.86,61,Male,Los Angeles,Bachelor
+26,50,45308.26,19,Female,Houston,Master
+24,19,55221.11,13,Male,Houston,PhD
+109,25,28582.15,67,Female,Chicago,Master
+40,69,99264.84,58,Female,chicago,Bachelor
+19,19,35958.94,99,Female,New York,PhD
+99,46,48457.97,24,Male,Phoenix,Bachelor
+74,46,23590.87,85,Male,Phoenix,Master
+137,44,61417.81,36,Male,New York,Master
+48,35,,61,Female,Houston,Bachelor
+112,68,64280.01,40,Male,New York,Master
+62,thirty,80998.69,78,Female,Phoenix,PhD
+74,46,23590.87,85,Male,Phoenix,Master
+34,45,53491.56,90,Female,Houston,High School
+149,56,63725.2,82,Female,Phoenix,Bachelor
+126,29,27140.59,8,Female,Los Angeles,High School
+63,52,34334.93,92,Male,New York,Bachelor
+106,41,104403.38,51,Male,Los Angeles,Bachelor
+95,43,45092.24,92,Male,New York,Master
+54,43,38674.05,67,Female,Chicago,Master
+6,25,10248.62,15,Female,Phoenix,Master
+128,50,61215.69,26,FEMALE,Chicago,High School
+115,52,33064.13,44,Female,Chicago,Bachelor
+50,42,21962.98,63,Male,Phoenix,High School
+36,32,48511.08,23,Male,Houston,Bachelor
+81,31,55861.45,34,Male,Houston,Bachelor
+78,51,56928.96,23,Male,Chicago,Master
+35,33,55151.01,62,Female,Los Angeles,High School
+47,56,65820.64,16,Male,Phoenix,Bachelor
+8,56,57142.25,60,Male,Chicago,Master
+44,24,26626.44,48,Male,New York,High School
+71,25 years,55197.66,90,Female,Chicago,High School
+113,34,59464.75,74,Male,Houston,High School
+92,35,58255.62,24,Male,Chicago,Master
+84,32,59476.66,10,Female,Phoenix,PhD
+140,52,63027.83,36,Female,Houston,Master
+141,54,43694.62,10,Female,LA,PhD
+90,33,33586.35,4,M,Los Angeles,Bachelor
+9,36,79557.88,97,Male,Houston,High School
+14,53,56575.02,68,Female,Houston,Master
+60,61,N/A,57,Female,Chicago,Bachelor
+133,52,60300.71,68,Male,new york,High School
+4,32,44019.85,42,Female,Phoenix,Master
+18,39,69372.9,47,Female,New York,PhD
+39,61,51204.6,1,Male,New York,High School
+73,21,25260.99,48,Female,Chicago ,High School
+136,39,127054.63,29,Male,Chicago,PhD
+7,38,45606.56,54,Male,Phoenix,Master
+129,65,71661.02,74,female,Houston ,PhD
+101,62,55533.82,50,Female,New York,Master
+3,46,51740.94,52,Female,Phoenix,Master
+121,58,53463.62,2,Male,Chicago,Bachelor
+64,31,43558.77,69,MALE,New York,Master
+116,52,19703.06,29,Male,New York,bachelor
+55,19,51993.03,76,Male,Phoenix,High School
+108,61,32856.85,12,Female,Chicago,Master
+51,31,61737.14,69,Female,Chicago,Bachelor
+119,59,54281.87,95,Female,Phoenix,Master
+59,24,28753.93,86,Female,Los Angeles,High School
+49,21,78055.89,64,Male,Phoenix,Bachelor
+89,38,73171.91,,Female,Phoenix,High School
+22,47,20729.7,52,Male,New York,High School
+58,,51371.26,unknown,Male,Los Angeles,Master
+150,44,17745.68,96,Male,Los Angeles,PhD
+130,40,71076.04,90,Female,Los Angeles,Bachelor
+38,68,49469.72,12,Female,Phoenix,Bachelor
+146,22,51637.48,,Male,Houston,Bachelor
+2,69,66438.05,49,Male,Houston,Bachelor
+53,26,30189.27,93,Male,Los Angeles,High School
+131,41,22446.61,34,Female,NewYork,Master
+104,24,79070.68,33,Male,houston,Bachelor
+100,,56823.04,12,Female,Houston,Master
+117,50,41069.7,13,Male,New York,High School
+88,,65741.69,1,Male,Phoenix,Bachelor
+75,35,60438.83,39,Female,New York,High School
+122,45,57706.35,35,Female,Chicago,Bachelor
+77,61,55009.86,94,Female,New York,Master
+21,61,42157.84,40,Female,Chicago,PhD
+72,59,"$45,000",90,Male,Chicago,PhD
+107,18,62513.35,43,Female,Los Angeles,Master
+15,57,39404.8,6, Female,New York,Bachelor
+93,64,66441.2,80,Male,New York,PhD
+103,42,50260.04,33,Male,Los Angeles,High School
